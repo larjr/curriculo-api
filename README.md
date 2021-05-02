@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="http://larjr.com.br" target="blank"><img src="assets/Oculos_Papai_-_Fundo_Amarelo_Rosa.gif" width="64" alt="larjr Logo" /></a>
+</p>
+<hr>
+<p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
